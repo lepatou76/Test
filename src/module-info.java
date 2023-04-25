@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Patrice
+ *
+ */
+module test {
+}
